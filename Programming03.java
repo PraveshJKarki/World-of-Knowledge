@@ -1,7 +1,6 @@
 
 /**
  * Programmer : Pravesh Jung Karki
- * CSC 205 Programming 3
  * Description : The application import the data file which
  * has list of asian countries records in it . At first it
  * will
