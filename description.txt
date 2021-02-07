@@ -1,0 +1,28 @@
+Afghanistan Kabul 38928346 11 AfghanAfghani
+Bhutan Thimphu 771608 2.53 BhutaneseNgultrum
+China Beijing 1439323776 13.15 ChineseYuanRenminbi
+Georgia Tbilish 3989167 16.21 GeorgianLari
+India NewDelhi 1380004385 2718.73 IndianRupee
+Japan Tokyo 126476461 49.32 JapaneseYen
+Kazakhstan Nur-Sultan 18776707 170.54 KazakhstaniTenge
+Laos Vientiane 7275560 18.13 LaoKip
+Malaysia KualaLumpur 32365999 258.58 MalaysianRinggit  
+Nepal Kathmandu 29136808 28.81 NepaleseRupee 
+Oman Muscat 5106626 79.29 OmaniRial
+Pakistan Islamabad 220892340 312.57 PakistaniRupee
+Philippines Manila 109581078 330.91 PhilippinePeso
+Qatar Doha 2881053 192.01 QatariRiyal
+SaudiArabia Riyadh 34813871 782.4 SaudiArabianRiyal
+SriLanka SriJayawardenepuraKotte 21413249 88.90	SriLankanRupee
+Thailand Bangkok 69799978 504.99 ThaiBaht
+UnitedArabEmirates AbuDhabi 98904024 14.18 Dihram
+Vietnam Hanoi 97338579 245.21 VietnameseDong
+Yemen Sana’a 29825964 26.91 YemeniRial
+EOF None 0000 0.0 No	 	
+
+
+
+
+
+	
+ 	
